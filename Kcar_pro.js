@@ -1091,8 +1091,8 @@
             keyState[key] = false;
     });
 
-    STAGE_WIDTH = 1100;
-    STAGE_HEIGHT = 500;
+    STAGE_WIDTH = 1200;
+    STAGE_HEIGHT = 700;
     // Konva layer 초기화
     let stage = new Konva.Stage({
         width: STAGE_WIDTH,
