@@ -248,8 +248,8 @@
     }
 
     // Field
-    const MAXIMUM_WIDTH = 1000;  // 이미지 최대 너비
-    const MAXIMUM_HEIGHT = 700; // 이미지 최대 높이
+    const MAXIMUM_WIDTH = 1200;  // 이미지 최대 너비
+    const MAXIMUM_HEIGHT = 800; // 이미지 최대 높이
     const OPACITY_IN = 0.7; // opacity 최대
     const OPACITY_OUT = 0.3; // opacity 최소
     const ZOOM_RATE = 1.2;
